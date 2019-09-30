@@ -11,6 +11,7 @@ You can run and test the docs site locally (you will need access - only employee
 If you found a bug or have a feature request, please report it in this repository's [issues](https://github.com/auth0/docs/issues) section. Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
 
 ## Author 
+## author 1
 
 [Auth0](https://auth0.com)
 
